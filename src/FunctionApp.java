@@ -32,6 +32,7 @@ public class FunctionApp {
     }
 
     static String getEnergyEfficiency(char category){
+        // 有return就不需再break
         switch (category){
             case 'A':
             case 'a':
