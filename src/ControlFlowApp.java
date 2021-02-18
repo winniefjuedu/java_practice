@@ -34,6 +34,7 @@ public class ControlFlowApp {
             default:
                 System.out.println("Not defined category");
         }
+        System.out.println();
 
         {
             int numberOfOwners = 5;
