@@ -1,3 +1,4 @@
+package Beginner;
 public class FunctionApp {
     public static void main(String[] args) {
         sayHello();

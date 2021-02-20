@@ -1,3 +1,4 @@
+package Beginner;
 public class OperatorsApp {
     public static void main (String[] args){
         String carModel = "Dodge Challenger SRT 392";

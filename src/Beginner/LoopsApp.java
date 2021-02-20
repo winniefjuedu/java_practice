@@ -1,3 +1,4 @@
+package Beginner;
 public class LoopsApp {
     public static void main (String[] args) {
         System.out.println("while-loop");

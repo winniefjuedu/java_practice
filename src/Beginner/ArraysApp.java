@@ -1,3 +1,4 @@
+package Beginner;
 public class ArraysApp {
     public static void main(String[] args) {
         int[] lotteryNumbers = new int[5];

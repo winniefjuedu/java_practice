@@ -1,3 +1,4 @@
+package Beginner;
 public class JavaProject {
     // SDK: amazon corretto
     // IDE: jetbrains
